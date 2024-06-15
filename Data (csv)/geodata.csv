@@ -1,0 +1,178 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Zrich,47.3744,8.5411,Switzerland,CH,Zrich,admin,447082,447082
+Geneva,46.2017,6.1469,Switzerland,CH,GenÃ¨ve,admin,203840,203840
+Basel,47.5547,7.5906,Switzerland,CH,Basel-Stadt,admin,173552,173552
+Lausanne,46.5198,6.6335,Switzerland,CH,Vaud,admin,141418,141418
+Bern,46.9481,7.4475,Switzerland,CH,Bern,primary,134506,134506
+Winterthur,47.4989,8.7286,Switzerland,CH,Zrich,minor,109775,109775
+Lucerne,47.05,8.3,Switzerland,CH,Luzern,admin,81691,81691
+Sankt Gallen,47.4242,9.3708,Switzerland,CH,Sankt Gallen,admin,75833,75833
+Biel/Bienne,47.1333,7.25,Switzerland,CH,Bern,,55159,55159
+Bellinzona,46.1954,9.0297,Switzerland,CH,Ticino,admin,43785,43785
+Thun,46.7667,7.6333,Switzerland,CH,Bern,minor,43734,43734
+Fribourg,46.8,7.15,Switzerland,CH,Fribourg,admin,38365,38365
+Uster,47.35,8.7167,Switzerland,CH,Zrich,minor,36791,36791
+Schaffhausen,47.7,8.6333,Switzerland,CH,Schaffhausen,admin,36587,36587
+Chur,46.85,9.5333,Switzerland,CH,Graubnden,admin,35038,35038
+Vernier,46.2,6.1,Switzerland,CH,GenÃ¨ve,,34774,34774
+Sion,46.2311,7.3594,Switzerland,CH,Valais,admin,34708,34708
+NeuchÃ¢tel,47.0,6.9333,Switzerland,CH,NeuchÃ¢tel,admin,33475,33475
+Zug,47.1681,8.5169,Switzerland,CH,Zug,admin,30542,30542
+Yverdon-les-Bains,46.7785,6.6408,Switzerland,CH,Vaud,minor,30157,30157
+Emmen,47.0833,8.3,Switzerland,CH,Luzern,,29292,29292
+Dbendorf,47.4167,8.6167,Switzerland,CH,Zrich,,28002,28002
+Rapperswil-Jona,47.2167,8.8167,Switzerland,CH,Sankt Gallen,minor,26995,26995
+Dietikon,47.4,8.4,Switzerland,CH,Aargau,,26936,26936
+Wetzikon,47.3167,8.8,Switzerland,CH,Zrich,,24452,24452
+Meyrin,46.2167,6.0667,Switzerland,CH,GenÃ¨ve,,24144,24144
+Carouge,46.1833,6.1333,Switzerland,CH,GenÃ¨ve,,22336,22336
+Frauenfeld,47.55,8.9,Switzerland,CH,Thurgau,admin,22313,22313
+Kreuzlingen,47.6333,9.1667,Switzerland,CH,Thurgau,minor,21801,21801
+Wdenswil,47.2333,8.6667,Switzerland,CH,Zrich,,21716,21716
+Aarau,47.4,8.05,Switzerland,CH,Aargau,admin,21503,21503
+Riehen,47.5833,7.6333,Switzerland,CH,Basel-Stadt,,21448,21448
+Allschwil,47.55,7.5333,Switzerland,CH,Basel-Landschaft,,21150,21150
+Renens,46.5333,6.5833,Switzerland,CH,Vaud,minor,20927,20927
+Wettingen,47.4667,8.3333,Switzerland,CH,Aargau,,20843,20843
+Nyon,46.3833,6.2333,Switzerland,CH,Vaud,,20272,20272
+Blach,47.5167,8.5333,Switzerland,CH,Zrich,,20046,20046
+Vevey,46.4667,6.85,Switzerland,CH,Vaud,,19891,19891
+Opfikon,47.4333,8.5667,Switzerland,CH,Zrich,,19864,19864
+Reinach,47.4833,7.5833,Switzerland,CH,Basel-Landschaft,,19144,19144
+Baden,47.4667,8.3,Switzerland,CH,Aargau,,19122,19122
+Onex,46.1833,6.1,Switzerland,CH,GenÃ¨ve,,18977,18977
+Schlieren,47.4,8.45,Switzerland,CH,Zrich,,18731,18731
+Adliswil,47.3167,8.5333,Switzerland,CH,Zrich,,18731,18731
+Volketswil,47.3833,8.7,Switzerland,CH,Zrich,,18615,18615
+Thalwil,47.2833,8.5667,Switzerland,CH,Zrich,,18525,18525
+Olten,47.35,7.9,Switzerland,CH,Solothurn,,18362,18362
+Pully,46.5167,6.6667,Switzerland,CH,Vaud,,18313,18313
+Regensdorf,47.4333,8.4667,Switzerland,CH,Zrich,,18253,18253
+Ostermundigen,46.955,7.4894,Switzerland,CH,Bern,,17751,17751
+Littau,47.05,8.2667,Switzerland,CH,Luzern,,17224,17224
+Solothurn,47.2167,7.5333,Switzerland,CH,Solothurn,admin,16777,16777
+Pratteln,47.5167,7.7,Switzerland,CH,Basel-Landschaft,,16621,16621
+Freienbach,47.2,8.75,Switzerland,CH,Schwyz,,16391,16391
+Wallisellen,47.4167,8.6,Switzerland,CH,Zrich,,16315,16315
+Wohlen,47.35,8.2833,Switzerland,CH,Aargau,,16078,16078
+Herisau,47.3833,9.2667,Switzerland,CH,Appenzell Ausserrhoden,admin,15744,15744
+Steffisburg,46.7667,7.6333,Switzerland,CH,Bern,,15709,15709
+Morges,46.5167,6.5,Switzerland,CH,Vaud,,15705,15705
+Binningen,47.5333,7.5667,Switzerland,CH,Basel-Landschaft,,15675,15675
+Schwyz,47.0167,8.65,Switzerland,CH,Schwyz,admin,15181,15181
+Arbon,47.5167,9.4333,Switzerland,CH,Thurgau,,14537,14537
+Liestal,47.4667,7.7333,Switzerland,CH,Basel-Landschaft,admin,14390,14390
+Stfa,47.24,8.73,Switzerland,CH,Zrich,,14389,14389
+Ksnacht,47.3167,8.5833,Switzerland,CH,Zrich,,14387,14387
+ThÃ´nex,46.1833,6.1833,Switzerland,CH,GenÃ¨ve,,14122,14122
+Meilen,47.2667,8.6333,Switzerland,CH,Zrich,,13999,13999
+Versoix,46.2833,6.1667,Switzerland,CH,GenÃ¨ve,,13422,13422
+Richterswil,47.2167,8.7,Switzerland,CH,Zrich,,13407,13407
+Zollikon,47.3333,8.5833,Switzerland,CH,Zrich,,13367,13367
+Gland,46.42,6.27,Switzerland,CH,Vaud,,13106,13106
+Muri,46.9333,7.4833,Switzerland,CH,Bern,,13054,13054
+Ecublens,46.5333,6.5667,Switzerland,CH,Vaud,,12854,12854
+DelÃ©mont,47.3667,7.35,Switzerland,CH,Jura,admin,12682,12682
+Prilly,46.5333,6.6,Switzerland,CH,Vaud,,12399,12399
+ChÃªne-Bougeries,46.1833,6.1833,Switzerland,CH,GenÃ¨ve,,12215,12215
+Rti,47.2667,8.85,Switzerland,CH,Zrich,,12170,12170
+Le Grand-Saconnex,46.2333,6.1167,Switzerland,CH,GenÃ¨ve,,12162,12162
+Mnchenstein,47.5167,7.6167,Switzerland,CH,Basel-Landschaft,,12096,12096
+Villars-sur-GlÃ¢ne,46.7833,7.1167,Switzerland,CH,Fribourg,,12092,12092
+La Tour-de-Peilz,46.45,6.8667,Switzerland,CH,Vaud,,11829,11829
+Spreitenbach,47.4167,8.3667,Switzerland,CH,Aargau,,11788,11788
+Veyrier,46.1667,6.1833,Switzerland,CH,GenÃ¨ve,,11609,11609
+Bassersdorf,47.45,8.6333,Switzerland,CH,Zrich,,11593,11593
+Mnnedorf,47.25,8.6833,Switzerland,CH,Zrich,,11242,11242
+Romanshorn,47.5667,9.3833,Switzerland,CH,Thurgau,,11167,11167
+Oberwil,47.5167,7.55,Switzerland,CH,Basel-Landschaft,,11136,11136
+Brugg,47.4864,8.2067,Switzerland,CH,Aargau,,11129,11129
+Plan-les-Ouates,46.1667,6.1167,Switzerland,CH,GenÃ¨ve,,10656,10656
+Neuhausen am Rheinfall,47.6833,8.6167,Switzerland,CH,Schaffhausen,,10510,10510
+Sarnen,46.8961,8.2456,Switzerland,CH,Obwalden,admin,10368,10368
+Aesch,47.4667,7.5833,Switzerland,CH,Basel-Landschaft,,10352,10352
+Birsfelden,47.5533,7.6233,Switzerland,CH,Basel-Stadt,,10299,10299
+Lutry,46.5,6.6833,Switzerland,CH,Vaud,,10289,10289
+Sursee,47.1667,8.1167,Switzerland,CH,Luzern,minor,9900,9900
+Therwil,47.5,7.55,Switzerland,CH,Basel-Landschaft,,9867,9867
+Urdorf,47.3833,8.4333,Switzerland,CH,Zrich,,9768,9768
+Widnau,47.4,9.6333,Switzerland,CH,Sankt Gallen,,9616,9616
+Epalinges,46.55,6.6667,Switzerland,CH,Vaud,,9611,9611
+Rorschach,47.4667,9.5,Switzerland,CH,Sankt Gallen,minor,9439,9439
+Altdorf,46.8667,8.6333,Switzerland,CH,Uri,admin,9401,9401
+Goldach,47.4833,9.4667,Switzerland,CH,Sankt Gallen,,9269,9269
+Arlesheim,47.4833,7.6167,Switzerland,CH,Basel-Landschaft,,9202,9202
+Zuchwil,47.2,7.5667,Switzerland,CH,Solothurn,,8875,8875
+Kilchberg,47.3167,8.55,Switzerland,CH,Zrich,,8851,8851
+Neuenhof,47.45,8.3167,Switzerland,CH,Aargau,,8824,8824
+Lachen,47.1833,8.85,Switzerland,CH,Schwyz,minor,8754,8754
+Fllanden,47.3667,8.6333,Switzerland,CH,Zrich,,8575,8575
+Stans,46.95,8.35,Switzerland,CH,Nidwalden,admin,8393,8393
+Oberentfelden,47.3667,8.05,Switzerland,CH,Aargau,,8360,8360
+Aarburg,47.3167,7.9,Switzerland,CH,Aargau,,8068,8068
+Chiasso,45.8333,9.0333,Switzerland,CH,Ticino,,7975,7975
+Buchs,47.3833,8.0833,Switzerland,CH,Aargau,,7966,7966
+Crissier,46.55,6.5833,Switzerland,CH,Vaud,,7930,7930
+Au,47.4333,9.6333,Switzerland,CH,Sankt Gallen,,7788,7788
+Dietlikon,47.4167,8.6167,Switzerland,CH,Zrich,,7773,7773
+Chavannes-prÃ¨s-Renens,46.5333,6.5833,Switzerland,CH,Vaud,,7724,7724
+Windisch,47.4833,8.2167,Switzerland,CH,Aargau,,7654,7654
+Minusio,46.1833,8.8167,Switzerland,CH,Ticino,,7303,7303
+Heimberg,46.7833,7.6,Switzerland,CH,Bern,,6827,6827
+Nidau,47.1333,7.25,Switzerland,CH,Bern,,6815,6815
+Dornach,47.4833,7.6167,Switzerland,CH,Solothurn,,6778,6778
+Bottmingen,47.5167,7.5667,Switzerland,CH,Basel-Landschaft,,6691,6691
+Oberengstringen,47.4167,8.4667,Switzerland,CH,Zrich,,6569,6569
+Frenkendorf,47.5,7.7167,Switzerland,CH,Basel-Landschaft,,6435,6435
+Rolle,46.45,6.3333,Switzerland,CH,Vaud,,6259,6259
+Buchrain,47.1,8.35,Switzerland,CH,Luzern,,6235,6235
+Massagno,46.0167,8.95,Switzerland,CH,Ticino,,6227,6227
+Uetikon am See,47.2667,8.6833,Switzerland,CH,Zrich,,6145,6145
+Glarus,47.0333,9.0667,Switzerland,CH,Glarus,admin,5996,5996
+Rschlikon,47.2833,8.55,Switzerland,CH,Zrich,,5830,5830
+Peseux,46.9833,6.8833,Switzerland,CH,NeuchÃ¢tel,,5809,5809
+Appenzell,47.3333,9.4167,Switzerland,CH,Appenzell Innerrhoden,admin,5750,5750
+Interlaken,46.6833,7.85,Switzerland,CH,Bern,minor,5610,5610
+Cologny,46.2156,6.1808,Switzerland,CH,GenÃ¨ve,,5570,5570
+Erlenbach,47.3,8.5833,Switzerland,CH,Zrich,,5567,5567
+Colombier,46.9667,6.8667,Switzerland,CH,NeuchÃ¢tel,,5547,5547
+Courtepin,46.8667,7.1167,Switzerland,CH,Fribourg,,5451,5451
+Greifensee,47.3667,8.6833,Switzerland,CH,Zrich,,5345,5345
+PrÃ©verenges,46.5167,6.5333,Switzerland,CH,Vaud,,5287,5287
+Gerlafingen,47.1667,7.5667,Switzerland,CH,Solothurn,,5202,5202
+Schwerzenbach,47.3833,8.6667,Switzerland,CH,Zrich,,5088,5088
+Oberrieden,47.2833,8.5833,Switzerland,CH,Zrich,,5083,5083
+Geroldswil,47.4167,8.4167,Switzerland,CH,Zrich,,4918,4918
+Niederglatt,47.5167,8.5,Switzerland,CH,Zrich,,4917,4917
+Schnenwerd,47.3667,8.0,Switzerland,CH,Solothurn,,4910,4910
+Niederlenz,47.4,8.1833,Switzerland,CH,Aargau,,4776,4776
+Cortaillod,46.95,6.85,Switzerland,CH,NeuchÃ¢tel,,4729,4729
+Saint-Sulpice,46.5167,6.5667,Switzerland,CH,Vaud,,4668,4668
+Confignon,46.1667,6.0167,Switzerland,CH,GenÃ¨ve,,4627,4627
+Morbio Inferiore,45.85,9.0167,Switzerland,CH,Ticino,,4575,4575
+Caslano,45.9667,8.8833,Switzerland,CH,Ticino,,4356,4356
+Gross Hchstetten,46.9,7.6333,Switzerland,CH,Bern,,4165,4165
+Unterentfelden,47.3667,8.0333,Switzerland,CH,Aargau,,4155,4155
+Paradiso,45.9833,8.95,Switzerland,CH,Ticino,,4144,4144
+Niederrohrdorf,47.4167,8.3167,Switzerland,CH,Aargau,,4105,4105
+Hilterfingen,46.7333,7.65,Switzerland,CH,Bern,,4044,4044
+Hunzenschwil,47.3833,8.1333,Switzerland,CH,Aargau,,4014,4014
+Unterengstringen,47.4167,8.45,Switzerland,CH,Zrich,,3880,3880
+Langendorf,47.2167,7.5167,Switzerland,CH,Solothurn,,3781,3781
+Belmont-sur-Lausanne,46.5167,6.6833,Switzerland,CH,Vaud,,3721,3721
+Widen,47.3667,8.3667,Switzerland,CH,Aargau,,3698,3698
+Port,47.1167,7.25,Switzerland,CH,Bern,,3695,3695
+Ennetbaden,47.4833,8.3167,Switzerland,CH,Aargau,,3693,3693
+Feuerthalen,47.6833,8.65,Switzerland,CH,Zrich,,3636,3636
+Rheineck,47.4667,9.5833,Switzerland,CH,Sankt Gallen,,3419,3419
+Vacallo,45.85,9.0333,Switzerland,CH,Ticino,,3398,3398
+Corsier-sur-Vevey,46.4667,6.85,Switzerland,CH,Vaud,,3390,3390
+Balerna,45.85,9.0,Switzerland,CH,Ticino,,3269,3269
+Givisiez,46.8167,7.1333,Switzerland,CH,Fribourg,,3166,3166
+Coppet,46.3167,6.1917,Switzerland,CH,Vaud,,3152,3152
+Turgi,47.5,8.25,Switzerland,CH,Aargau,,3014,3014
+Coldrerio,45.85,8.9833,Switzerland,CH,Ticino,,2939,2939
+Rickenbach bei Wil,47.45,9.05,Switzerland,CH,Sankt Gallen,,2774,2774
+Horn,47.5,9.4667,Switzerland,CH,Sankt Gallen,,2752,2752
+Muralto,46.1667,8.8,Switzerland,CH,Ticino,,2683,2683
+Hauterive,47.0167,6.9667,Switzerland,CH,NeuchÃ¢tel,,2623,2623
